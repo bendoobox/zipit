@@ -1,1 +1,1 @@
-![Zip it](/foo.jpg)
+![Zip it](https://raw.githubusercontent.com/bendoobox/zipit/master/BFevRHnCYAAuFMS.jpg)
