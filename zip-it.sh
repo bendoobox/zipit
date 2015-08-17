@@ -12,4 +12,4 @@ cp -v ./root/usr/bin/raspi-config /usr/bin/raspi-config
 sudo tar -cvpf bendoobox.tar /* --exclude=proc/* --exclude=sys/* --exclude=dev/pts/* --exclude=var/cache/* --exclude=var/swap --exclude=home/pi/.bootstrap/*
 
 # xzip it
-xz -1 -k -e -v bendoobox.tar
+echo "Now scp the file and xzip the file: xz -1 -k -e -v bendoobox.tar"
